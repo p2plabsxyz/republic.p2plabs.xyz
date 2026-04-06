@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./logo.png" width="369" alt="Peer-to-Peer Republic Logo">
+    <img src="./images/logo.png" width="369" alt="Peer-to-Peer Republic Logo">
 </div>
 
 # Peer-to-Peer Republic
